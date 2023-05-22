@@ -3,7 +3,7 @@
 ### 🎐 Hej I’m @einariii
 <br>
 
-*  Full-stack Elixir developer *Phoenix Liveview | Ecto/PostgresQL | HTML/Tailwind/CSS | JavaScript)*
+*  Full-stack Elixir developer *Phoenix Liveview | Ecto/PostgresQL | HTML/Tailwind/CSS | JavaScript*
 *  Proud [DockYard Academy](https://academy.dockyard.com/) alumnus
 *  BEAM advocate (help me learn Erlang, Gleam, or [any of the others](https://github.com/llaisdy/beam_languages#34-languages-on-the-beam)!)
 *  Synthesist and historian of computer music programming
