@@ -16,7 +16,7 @@
 *  PhD (ABD) in Science and Technology Studies (York)
 *  MA in Visual Culture (Waseda University, Tokyo) 
 *  Former technician and researcher at RE/Lab (TMU)
-*  Human language lover: I am fluent in Mandarin and Spanish; proficient in others; and have studied more
+*  Human language lover: I am fluent in Mandarin and Spanish; proficient in several others; and have studied many more
 <br>
 
 ### よろしく お願いします 🔘
