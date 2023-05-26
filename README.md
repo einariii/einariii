@@ -5,7 +5,7 @@
 
 *  Full-stack Elixir developer *Phoenix Liveview | Ecto/PostgresQL | HTML/Tailwind/CSS | JavaScript*
 *  Proud [DockYard Academy](https://academy.dockyard.com/) alumnus
-*  BEAM advocate (help me learn Erlang, Gleam, or [any of the others](https://github.com/llaisdy/beam_languages#34-languages-on-the-beam)!)
+*  BEAM advocate (let's learn Erlang, Gleam, or [any of the others](https://github.com/llaisdy/beam_languages#34-languages-on-the-beam)!)
 *  Synthesist and historian of computer music programming
 *  I code music in Lua, SuperCollider, Tidal Cycles, and the Teletype esolang 
 *  I’m keen on collaborating at the intersection of functional programming and sound/music
