@@ -4,10 +4,10 @@
 <br>
 
 *  Full-stack Elixir developer *Phoenix Liveview | Ecto/PostgresQL | HTML/Tailwind/CSS | JavaScript*
-*  Co-Founder of [kimia.software](https://kimia.software)
+*  Emergent Rubyist (all about that *programmer happiness*)
+*  Co-founder of [kimia.software](https://kimia.software)
 *  Proud [DockYard Academy](https://academy.dockyard.com/) alumnus
 *  BEAM advocate (let's learn Erlang, Gleam, or [any of the others](https://github.com/llaisdy/beam_languages#34-languages-on-the-beam)!)
-*  Emergent Rubyist (all about that *programmer happiness*)
 *  Synthesist and historian of computer music programming
 *  I code music in Lua, SuperCollider, Tidal Cycles, and the Teletype esolang 
 *  I’m keen on collaborating at the intersection of functional programming and sound/music
@@ -19,6 +19,7 @@
 *  MA in Visual Culture (Waseda University, Tokyo) 
 *  Former technician and researcher at RE/Lab (TMU)
 *  Human language lover: I am fluent in Mandarin and Spanish; proficient in several others; and have studied many more
+*  Muay Thai for life
 <br>
 
 ### よろしく お願いします 🔘
